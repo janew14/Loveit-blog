@@ -1,4 +1,4 @@
-baseURL = "https://www.janew.tk/"
+baseURL = "https://janew.tk/"
 
 # theme
 # 主题
@@ -49,7 +49,7 @@ enableEmoji = true
 [author]
   name = "Jane Wei"
   email = "liujingwei1420@gmail.com"
-  link = "https://www.janew.tk/"
+  link = "https://janew.tk/"
 
 # Menu config
 # 菜单配置
@@ -63,7 +63,7 @@ enableEmoji = true
     # you can add extra information after the name (HTML format is supported), such as icons
     # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
     post = ""
-    name = "Posts"
+    name = "所有文章"
     url = "/posts/"
     # title will be shown when you hover on this menu link
     # 当您将鼠标悬停在此菜单链接上时, 将显示标题
@@ -886,7 +886,7 @@ enableEmoji = true
         post = ""
         name = "所有文章"
         url = "/posts/"
-        title = ""
+        title = "wenzhang"
       [[languages.zh-cn.menu.main]]
         weight = 2
         identifier = "tags"
@@ -945,7 +945,7 @@ enableEmoji = true
         [languages.zh-cn.params.home.profile]
           enable = true
           # gravatarEmail = "liujingwei1420@gmail.com"
-          avatarURL = "/images/avatar.png"
+          avatarURL = "./images/avatar.png"
           title = "Jane Wei"
           subtitle = "喜欢画画的Jane"
           typeit = true

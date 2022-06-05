@@ -2,30 +2,30 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://www.janew.tk/en/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://janew.tk/en/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://www.janew.tk/categories/"
+                        href="https://janew.tk/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://www.janew.tk/en/categories/"
+                    href="https://janew.tk/en/categories/"
                     /></url><url>
-            <loc>https://www.janew.tk/en/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://janew.tk/en/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://www.janew.tk/"
+                        href="https://janew.tk/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://www.janew.tk/en/"
+                    href="https://janew.tk/en/"
                     /></url><url>
-            <loc>https://www.janew.tk/en/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://janew.tk/en/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://www.janew.tk/tags/"
+                        href="https://janew.tk/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://www.janew.tk/en/tags/"
+                    href="https://janew.tk/en/tags/"
                     /></url></urlset>
