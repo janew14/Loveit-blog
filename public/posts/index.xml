@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>JaneW</title>
-        <link>https://janew.tk/</link>
-        <description>个人博客</description>
+        <title>所有文章 - JaneW</title>
+        <link>https://janew.tk/posts/</link>
+        <description>所有文章 | JaneW</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>liujingwei1420@gmail.com (Jane Wei)</managingEditor>
-            <webMaster>liujingwei1420@gmail.com (Jane Wei)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 06 Jun 2022 02:08:01 &#43;0800</lastBuildDate>
-            <atom:link href="https://janew.tk/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>liujingwei1420@gmail.com (Jane Wei)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 06 Jun 2022 02:08:01 &#43;0800</lastBuildDate><atom:link href="https://janew.tk/posts/" rel="self" type="application/rss+xml" /><item>
     <title>My First Po</title>
     <link>https://janew.tk/my-first-po/</link>
     <pubDate>Mon, 06 Jun 2022 02:08:01 &#43;0800</pubDate>
