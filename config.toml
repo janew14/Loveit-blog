@@ -130,7 +130,7 @@ enableEmoji = true
       name = "Jane Wei"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 在这里改图标
-      pre = "<i class='fa-solid fa-dog-leashed' aria-hidden='true'></i>"
+      pre = "<i class='fa-solid fa-dog' aria-hidden='true'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
       post = ""
@@ -873,6 +873,7 @@ enableEmoji = true
           prefix = "https://mastodon.technology/"
 
   [languages.zh-cn]
+    pre = '<i class="fa-solid fa-language"></i>'
     weight = 2
     languageCode = "zh-CN"
     languageName = "简体中文"
@@ -883,7 +884,7 @@ enableEmoji = true
         weight = 1
         identifier = "posts"
         pre = ""
-        post = ""
+        post = "<i class='fa-solid fa-folder-open'></i>"
         name = "所有文章"
         url = "/posts/"
         title = "所有文章"
@@ -891,7 +892,7 @@ enableEmoji = true
         weight = 2
         identifier = "tags"
         pre = ""
-        post = ""
+        post = "<i class='fa-solid fa-hashtag'></i>"
         name = "标签"
         url = "/tags/"
         title = "标签"
@@ -899,7 +900,7 @@ enableEmoji = true
         weight = 3
         identifier = "categories"
         pre = ""
-        post = ""
+        post = "<i class='fa-solid fa-grip'></i>"
         name = "分类"
         url = "/categories/"
         title = "分类"
@@ -914,7 +915,7 @@ enableEmoji = true
         weight = 5
         identifier = "about"
         pre = ""
-        post = ""
+        post = "<i class='fa-solid fa-paw'></i>"
         name = "关于"
         url = "/about/"
         title = "关于"
