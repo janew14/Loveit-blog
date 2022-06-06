@@ -364,7 +364,7 @@ enableEmoji = true
     hiddenFromSearch = false
     # whether to enable twemoji
     # 是否使用 twemoji
-    twemoji = true
+    twemoji = false
     # whether to enable lightgallery
     # 是否使用 lightgallery
     lightgallery = false
@@ -836,7 +836,7 @@ enableEmoji = true
       #   title = "GitHub"
     [languages.en.params]
       [languages.en.params.search]
-        enable = true
+        enable = false
         type = "lunr"
         contentLength = 4000
         placeholder = ""
@@ -853,7 +853,7 @@ enableEmoji = true
         [languages.en.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "/images/avatar.png"
+          avatarURL = "../lib/images/bird_avatar_400x400.jpg"
           title = ""
           subtitle = "A Clean, Elegant but Advanced Hugo Theme"
           typeit = true
@@ -886,7 +886,7 @@ enableEmoji = true
         post = ""
         name = "所有文章"
         url = "/posts/"
-        title = "wenzhang"
+        title = "所有文章"
       [[languages.zh-cn.menu.main]]
         weight = 2
         identifier = "tags"
@@ -894,7 +894,7 @@ enableEmoji = true
         post = ""
         name = "标签"
         url = "/tags/"
-        title = ""
+        title = "标签"
       [[languages.zh-cn.menu.main]]
         weight = 3
         identifier = "categories"
@@ -902,7 +902,7 @@ enableEmoji = true
         post = ""
         name = "分类"
         url = "/categories/"
-        title = ""
+        title = "分类"
       # [[languages.zh-cn.menu.main]]
       #   weight = 4
       #   identifier = "documentation"
@@ -917,7 +917,7 @@ enableEmoji = true
         post = ""
         name = "关于"
         url = "/about/"
-        title = ""
+        title = "关于"
       # [[languages.zh-cn.menu.main]]
       #   weight = 6
       #   identifier = "github"
