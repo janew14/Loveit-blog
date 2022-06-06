@@ -129,8 +129,8 @@ enableEmoji = true
       # 标题名称
       name = "Jane Wei"
       # you can add extra information before the name (HTML format is supported), such as icons
-      # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-      pre = "<i class='far fas fa-paw' aria-hidden='true'></i>"
+      # 在这里改图标
+      pre = "<i class='fa-solid fa-dog-leashed' aria-hidden='true'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
       post = ""
@@ -954,7 +954,10 @@ enableEmoji = true
       [languages.zh-cn.params.social]
         GitHub = "janew0114"
         Weibo = "u/2959717577"
-        Instagram = "janejingw"
-        twitter = "liujing_W"
+        Instagram = "jane.weiliujing"
+        twitter = "JaneW0114"
         Email = "liujingwei1420@gmail.com"
         RSS = true
+        [languages.zh-cn.params.social.Mastodon]
+          id = "@janejane"
+          prefix = "https://m.cmx.im/web/"
