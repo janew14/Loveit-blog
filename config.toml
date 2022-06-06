@@ -480,7 +480,7 @@ enableEmoji = true
       # Disqus comment config (https://disqus.com/)
       # Disqus 评论系统设置 (https://disqus.com/)
       [params.page.comment.disqus]
-        enable = true
+        enable = false
         # Disqus shortname to use Disqus in posts
         # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
         shortname = "janew-blog"
@@ -549,13 +549,13 @@ enableEmoji = true
       # utterances comment config (https://utteranc.es/)
       # utterances comment 评论系统设置 (https://utteranc.es/)
       [params.page.comment.utterances]
-        enable = false
+        enable = true
         # owner/repo
-        repo = ""
+        repo = "janew14/janew14-hugo-comment"
         issueTerm = "pathname"
         label = ""
         lightTheme = "github-light"
-        darkTheme = "github-dark"
+        darkTheme = "gruvbox-dark"
       # giscus comment config (https://giscus.app/)
       # giscus comment 评论系统设置 (https://giscus.app/zh-CN)
       [params.page.comment.giscus]
