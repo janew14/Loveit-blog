@@ -1,48 +1,59 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>所有文章 - JaneW</title>
-        <link>https://janew.tk/posts/</link>
-        <description>所有文章 | JaneW</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>liujingwei1420@gmail.com (Jane Wei)</managingEditor>
-            <webMaster>liujingwei1420@gmail.com (Jane Wei)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 03 Jun 2022 02:08:01 &#43;0800</lastBuildDate><atom:link href="https://janew.tk/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>《亲密关系》读书笔记</title>
-    <link>https://janew.tk/2022/06/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
-    <pubDate>Fri, 03 Jun 2022 02:08:01 &#43;0800</pubDate>
-    <author>Jane Wei</author>
-    <guid>https://janew.tk/2022/06/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
-    <description><![CDATA[📖《亲密关系》（第6版） 作者：【美】罗兰·米勒 这篇主要是我伴随着读书时记下的重点笔记和辅助自己回忆的概括和喜欢的摘要。自恋夸张的说，至少对于]]></description>
-</item>
-<item>
-    <title>“我是你的妈妈，现在也是我自己”</title>
-    <link>https://janew.tk/2022/04/%E6%88%91%E6%98%AF%E4%BD%A0%E7%9A%84%E5%A6%88%E5%A6%88%E4%B9%9F%E6%98%AF%E6%88%91%E8%87%AA%E5%B7%B1/</link>
-    <pubDate>Mon, 25 Apr 2022 14:08:01 &#43;0800</pubDate>
-    <author>Jane Wei</author>
-    <guid>https://janew.tk/2022/04/%E6%88%91%E6%98%AF%E4%BD%A0%E7%9A%84%E5%A6%88%E5%A6%88%E4%B9%9F%E6%98%AF%E6%88%91%E8%87%AA%E5%B7%B1/</guid>
-    <description><![CDATA[想要写这篇文章起始于今天下午和我妈的一个随机的聊天。 一开始只是家长里短，她吐槽她工作上的一些鸡毛蒜皮，我偶尔聊聊自己最近在做什么。她说到小季]]></description>
-</item>
-<item>
-    <title>You Go Girl！</title>
-    <link>https://janew.tk/2022/04/turning-red%E7%BA%AA%E5%BD%95%E7%89%87/</link>
-    <pubDate>Thu, 14 Apr 2022 11:08:01 &#43;0800</pubDate>
-    <author>Jane Wei</author>
-    <guid>https://janew.tk/2022/04/turning-red%E7%BA%AA%E5%BD%95%E7%89%87/</guid>
-    <description><![CDATA[上个月看了《Turning Red》，一个讲述了13岁女孩小美成长于一个移民了加拿大但典型的亚裔家庭中，青春期面临压力，以及和母亲的关系，不断]]></description>
-</item>
-<item>
-    <title>一个心结</title>
-    <link>https://janew.tk/2022/03/%E4%B8%80%E4%B8%AA%E5%BF%83%E7%BB%93/</link>
-    <pubDate>Wed, 30 Mar 2022 14:08:01 &#43;0800</pubDate>
-    <author>Jane Wei</author>
-    <guid>https://janew.tk/2022/03/%E4%B8%80%E4%B8%AA%E5%BF%83%E7%BB%93/</guid>
-    <description><![CDATA[这或许是一个心结。我在昨晚真正意义上的承认和意识到。 au pair 这一切得从2017年年初说起。一天晚上，我刷FB看到一条推荐，是关于au pair的，]]></description>
-</item>
-<item>
-    <title>真正的my first post</title>
-    <link>https://janew.tk/2022/03/real-my-first-post/</link>
-    <pubDate>Sun, 27 Mar 2022 14:08:01 &#43;0800</pubDate>
-    <author>Jane Wei</author>
-    <guid>https://janew.tk/2022/03/real-my-first-post/</guid>
-    <description><![CDATA[很开心和激动，按照ni小将写给我的 保姆级指南 写下自己的第一篇小文章。 有一点小紧张和生疏，但希望看起来是正常的。 之后想要更多的在这里分享自己的]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on JaneW</title>
+    <link>https://janew.tk/posts/</link>
+    <description>Recent content in Posts on JaneW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>liujingwei1420@gmail.com (Jane Wei)</managingEditor>
+    <webMaster>liujingwei1420@gmail.com (Jane Wei)</webMaster>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 03 Jun 2022 02:08:01 +0800</lastBuildDate><atom:link href="https://janew.tk/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《亲密关系》读书笔记</title>
+      <link>https://janew.tk/2022/06/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Fri, 03 Jun 2022 02:08:01 +0800</pubDate>
+      <author>liujingwei1420@gmail.com (Jane Wei)</author>
+      <guid>https://janew.tk/2022/06/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
+      <description>📖《亲密关系》（第6版） 作者：【美】罗兰·米勒 这篇主要是我伴随着读书时记下的重点笔记和辅助自己回忆的概括和喜欢的摘要。自恋夸张的说，至少对于</description>
+    </item>
+    
+    <item>
+      <title>“我是你的妈妈，现在也是我自己”</title>
+      <link>https://janew.tk/2022/04/%E6%88%91%E6%98%AF%E4%BD%A0%E7%9A%84%E5%A6%88%E5%A6%88%E4%B9%9F%E6%98%AF%E6%88%91%E8%87%AA%E5%B7%B1/</link>
+      <pubDate>Mon, 25 Apr 2022 14:08:01 +0800</pubDate>
+      <author>liujingwei1420@gmail.com (Jane Wei)</author>
+      <guid>https://janew.tk/2022/04/%E6%88%91%E6%98%AF%E4%BD%A0%E7%9A%84%E5%A6%88%E5%A6%88%E4%B9%9F%E6%98%AF%E6%88%91%E8%87%AA%E5%B7%B1/</guid>
+      <description>想要写这篇文章起始于今天下午和我妈的一个随机的聊天。 一开始只是家长里短，她吐槽她工作上的一些鸡毛蒜皮，我偶尔聊聊自己最近在做什么。她说到小季</description>
+    </item>
+    
+    <item>
+      <title>You Go Girl！</title>
+      <link>https://janew.tk/2022/04/turning-red%E7%BA%AA%E5%BD%95%E7%89%87/</link>
+      <pubDate>Thu, 14 Apr 2022 11:08:01 +0800</pubDate>
+      <author>liujingwei1420@gmail.com (Jane Wei)</author>
+      <guid>https://janew.tk/2022/04/turning-red%E7%BA%AA%E5%BD%95%E7%89%87/</guid>
+      <description>上个月看了《Turning Red》，一个讲述了13岁女孩小美成长于一个移民了加拿大但典型的亚裔家庭中，青春期面临压力，以及和母亲的关系，不断</description>
+    </item>
+    
+    <item>
+      <title>一个心结</title>
+      <link>https://janew.tk/2022/03/%E4%B8%80%E4%B8%AA%E5%BF%83%E7%BB%93/</link>
+      <pubDate>Wed, 30 Mar 2022 14:08:01 +0800</pubDate>
+      <author>liujingwei1420@gmail.com (Jane Wei)</author>
+      <guid>https://janew.tk/2022/03/%E4%B8%80%E4%B8%AA%E5%BF%83%E7%BB%93/</guid>
+      <description>这或许是一个心结。我在昨晚真正意义上的承认和意识到。 au pair 这一切得从2017年年初说起。一天晚上，我刷FB看到一条推荐，是关于au pair的，</description>
+    </item>
+    
+    <item>
+      <title>真正的my first post</title>
+      <link>https://janew.tk/2022/03/real-my-first-post/</link>
+      <pubDate>Sun, 27 Mar 2022 14:08:01 +0800</pubDate>
+      <author>liujingwei1420@gmail.com (Jane Wei)</author>
+      <guid>https://janew.tk/2022/03/real-my-first-post/</guid>
+      <description>很开心和激动，按照ni小将写给我的 保姆级指南 写下自己的第一篇小文章。 有一点小紧张和生疏，但希望看起来是正常的。 之后想要更多的在这里分享自己的</description>
+    </item>
+    
+  </channel>
 </rss>
