@@ -25,8 +25,9 @@ $global-font-secondary-color-dark: #5d5d5f !default;
 $global-link-color: #161209 !default;
 $global-link-color-dark: #a9a9b3 !default;
 
-// Color of the hover link
-$global-link-hover-color: #2d96bd !default;
+// Color of the hover link 629f17
+// $global-link-hover-color: #2d96bd !default;
+$global-link-hover-color: #629f17 !default;
 $global-link-hover-color-dark: #fff !default;
 
 // Color of the border
@@ -75,9 +76,12 @@ $toc-title-font-size: 1.2rem !default;
 $toc-content-font-size: 1rem !default;
 
 // Color of the single link
+// 自定义
 // $single-link-color: #2d96bd !default;
 $single-link-color: #629f17 !default;
-$single-link-color-dark: #55bde2 !default;
+// $single-link-color-dark: #55bde2 !default;
+$single-link-color-dark: #629f17 !default;
+
 
 // Color of the hover single link
 $single-link-hover-color: #ef3982 !default;
